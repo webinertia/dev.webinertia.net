@@ -1,2 +1,2 @@
-# dev.webinertia.net
-dev.webinertia.net github pages site
+# docs.webinertia.net
+docs.webinertia.net github pages site
