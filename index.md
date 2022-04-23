@@ -1,2 +1,2 @@
 # Webinertia Projects Documentation
-../aurora/
+[Aurora]: ../aurora
